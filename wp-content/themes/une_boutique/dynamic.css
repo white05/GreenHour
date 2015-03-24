@@ -1,0 +1,336 @@
+/* BEGIN custom_css */
+#page,
+			#page .vc_text_separator div {
+			
+			}
+			body {
+			
+			
+			}
+			h1,
+			.wpb_row h1,
+			body.blog article h1.entry-title a,
+			body.archive article h1.entry-title a,
+			body.search-results article h1.entry-title a {
+			
+			}
+			h2, .wpb_row h2 {
+			
+			}
+			h3, .wpb_row h3 {
+			
+			}
+			h4, .wpb_row h4 {
+			
+			}
+			h5, .wpb_row h5 {
+			
+			}
+			h6, .wpb_row h6 {
+			
+			}
+			b, strong {
+			
+			}
+			a {
+			
+			}
+			section#toolbar {
+			
+			}
+			#site-branding,
+			.header-style-v2 #site-branding,
+			.header-style-v3 #site-branding,
+			.header-style-v2 .the-search-form .column,
+			.dark-header #site-branding,
+			.dark-header .header-style-v2 #site-branding,
+			.dark-header .header-style-v3 #site-branding,
+			.dark-header .header-style-v2 .the-search-form .column,
+			#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent > .wp_mega_menu {
+			
+			}
+			.default-header-style #site-navigation,
+			.default-header-style .the-search-form .column,
+			#site-navigation.stickUp.isStuck {
+			
+			}
+			#site-navigation .main-menu > li > a,
+			.corporate-header-style #site-navigation .main-menu > li > a,
+			.corporate-header-style .woo-mini-cart-container > a {
+			text-transform: uppercase;
+			}
+			#site-navigation .main-menu .sub-menu li a,
+			#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu > li a{
+			
+			}
+			#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu .megamenu-title,
+			#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu .megamenu-title a {
+			
+			}
+			.page-info-wrapper {
+			
+			}
+			.woocommerce div.product div.single-product-entry-wrapper,
+			.woocommerce-page div.product div.single-product-entry-wrapper,
+			.woocommerce #content div.product div.single-product-entry-wrapper,
+			.woocommerce-page #content div.product div.single-product-entry-wrapper {
+			
+			}
+			#footer-light {
+			
+			}
+			#footer-dark {
+			
+			}
+			button,
+			.button,
+			html input[type="button"],
+			input[type="reset"],
+			input[type="submit"] {
+			background:;
+			border-color:;
+			color:;
+			}
+			button:hover,
+			.button:hover,
+			html input[type="button"]:hover,
+			input[type="reset"]:hover,
+			input[type="submit"]:hover {
+			background:;
+			border-color:;
+			color:;
+			}
+			.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+			.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+			background: ;
+			}
+			.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:hover,
+			.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:hover {
+			background: ;
+			}
+			button.secondary, 
+			.button.secondary, 
+			.wpb_button, 
+			input[type="submit"].secondary,
+			.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button {
+			background:;
+			border-color:;
+			color:;
+			}
+			button.secondary:hover, 
+			.button.secondary:hover, 
+			.wpb_button:hover, 
+			input[type="submit"].secondary:hover,
+			.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+			.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+			.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+			.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+			.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button:hover {
+			background:;
+			border-color:;
+			color:;
+			}
+			button.secondary, 
+			.button.secondary, 
+			.wpb_button, 
+			input[type="submit"].secondary,
+			.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+			.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button,
+			button,
+			.button,
+			html input[type="button"],
+			input[type="reset"],
+			input[type="submit"],
+			button.round,
+			.button.round {
+			border-radius:0px;
+			}
+/* END custom_css */
+/* BEGIN dynamic_css */
+#page,
+#page .vc_text_separator div {
+
+}
+
+body {
+
+
+}
+
+h1,
+.wpb_row h1,
+body.blog article h1.entry-title a,
+body.archive article h1.entry-title a,
+body.search-results article h1.entry-title a {
+
+}
+
+h2, .wpb_row h2 {
+
+}
+
+h3, .wpb_row h3 {
+
+}
+
+h4, .wpb_row h4 {
+
+}
+
+h5, .wpb_row h5 {
+
+}
+
+h6, .wpb_row h6 {
+
+}
+
+b, strong {
+    
+}
+
+a {
+
+}
+
+section#toolbar {
+
+}
+
+#site-branding,
+.header-style-v2 #site-branding,
+.header-style-v3 #site-branding,
+.header-style-v2 .the-search-form .column,
+.dark-header #site-branding,
+.dark-header .header-style-v2 #site-branding,
+.dark-header .header-style-v3 #site-branding,
+.dark-header .header-style-v2 .the-search-form .column,
+#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent > .wp_mega_menu {
+
+}
+
+.default-header-style #site-navigation,
+.default-header-style .the-search-form .column,
+#site-navigation.stickUp.isStuck {
+
+}
+
+#site-navigation .main-menu > li > a,
+.corporate-header-style #site-navigation .main-menu > li > a,
+.corporate-header-style .woo-mini-cart-container > a {
+text-transform: uppercase;
+}
+
+#site-navigation .main-menu .sub-menu li a,
+#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu > li a{
+
+}
+
+#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu .megamenu-title,
+#masthead #site-navigation .top-bar-section .menu-main-nav-container li.mega_parent .wp_mega_menu .megamenu-title a {
+
+}
+
+.page-info-wrapper {
+
+}
+
+.woocommerce div.product div.single-product-entry-wrapper,
+.woocommerce-page div.product div.single-product-entry-wrapper,
+.woocommerce #content div.product div.single-product-entry-wrapper,
+.woocommerce-page #content div.product div.single-product-entry-wrapper {
+
+}
+
+#footer-light {
+
+}
+
+#footer-dark {
+
+}
+
+button,
+.button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+background:;
+border-color:;
+color:;
+}
+
+button:hover,
+.button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+background:;
+border-color:;
+color:;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {
+background: ;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:hover,
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:hover {
+background: ;
+}
+
+button.secondary, 
+.button.secondary, 
+.wpb_button, 
+input[type="submit"].secondary,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button {
+background:;
+border-color:;
+color:;
+}
+
+button.secondary:hover, 
+.button.secondary:hover, 
+.wpb_button:hover, 
+input[type="submit"].secondary:hover,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button:hover {
+background:;
+border-color:;
+color:;
+}
+
+button.secondary, 
+.button.secondary, 
+.wpb_button, 
+input[type="submit"].secondary,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button,
+button,
+.button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"],
+button.round,
+.button.round {
+border-radius:0px;
+}
+/* END dynamic_css */

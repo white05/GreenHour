@@ -1,0 +1,190 @@
+/* Customizing OptioTree (theme options) panel */
+#option-tree-header {
+	background: #464646;
+	padding: 15px;
+	color: #CCC;
+	display: block;
+	margin: 11px 5px 0 2px;
+	min-width: 535px;
+	overflow: hidden;
+	position: relative;
+	background-image: -webkit-linear-gradient(bottom, #373737, #464646 5px);
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	-webkit-border-radius: 4px 4px 0 0;
+	-khtml-border-radius: 4px 4px 0 0;
+	-moz-border-radius: 4px 4px 0 0;
+	-o-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+}
+
+.option-tree-save-layout {
+	padding: 41px 0 0 0 !important;
+}
+
+#option-tree-header li a {
+	color: transparent !important;
+}
+
+#adminmenu #toplevel_page_ot-settings .menu-icon-generic div.wp-menu-image:before,
+#option-tree-header #option-tree-logo a:before {
+	color: #ccc !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav {
+	width: 200px !important;
+	padding: 0 !important;
+	margin: 0 0 0 -1px !important;
+}
+
+#option-tree-settings-api .ui-tabs {
+	background: #F1F1F1 !important;
+	border: 1px solid #CCC !important;
+	border-top: none  !important;
+	margin: 0px 5px 0 2px !important;
+	min-width: 533px !important;
+}
+
+#option-tree-settings-api .postbox {
+	background: #FFF !important;
+	border: none !important;
+	margin: 0 !important;
+	padding: 40px !important;
+	border-radius: 0 0 3px 0 !important;
+	border-left: 1px solid #CCC !important;
+	min-height: 1000px !important;
+}
+
+#option-tree-settings-api .ui-tabs {
+	padding-bottom: 0 !important;
+}
+
+#wpbody-content .metabox-holder {
+	padding-top: 0 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li.ui-state-active {
+	background: #FFF !important;
+	border-color: #CCC !important;
+	color: #000 !important;
+	margin-right: -1px !important;
+	position: relative !important;
+	z-index: 9 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li {
+	margin-top: -1px !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li.ui-state-active:first-of-type {
+	border-top: 0 none;
+	margin-top: 0 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a {
+	color: #777 !important;
+	display: block !important;
+	line-height: 15px !important;
+	padding: 30px !important;
+	text-decoration: none !important;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li.ui-state-active a {
+	color: #333 !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a:focus {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a:before {
+	font-weight: normal;
+}
+
+#option-tree-settings-api > .ui-tabs {
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+}
+
+#option-tree-header {
+	height: 30px;
+}
+
+#option-tree-header li,
+.hide-wrap,
+div#option-tree-settings-api #option-tree-sub-header {
+	display: none !important;
+}
+
+.ui-tabs-nav > li {
+	text-align: center;
+}
+
+.ui-tabs-nav > li > a:before {
+	font-family: "dashicons";
+	font-size: 46px;
+	height: 36px;
+	text-align: center;
+	display: block;
+	width: 100%;
+	margin-top: 15px;
+}
+
+#tab_general > a:before {
+	content: "\f111";
+}
+
+#tab_shop_setting > a:before {
+	content: "\f174";
+}
+
+#tab_blog_settings > a:before {
+	content: "\f119";
+}
+
+#tab_forum_settings > a:before {
+	content: "\f125";
+}
+
+#tab_color_and_styles > a:before {
+	content: "\f100";
+}
+
+#tab_buttons > a:before {
+	content: "\f138";
+}
+
+#tab_one_pager > a:before {
+	content: "\f134";
+}
+
+#post-body-content,
+.edit-form-section {
+	margin-bottom: 0;
+}
+
+/* Meta Boxes */
+
+.ot-metabox-wrapper .ot-metabox-panels .description {
+	padding-top: 0 !important;
+}
+
+.ot-metabox-tabs.ui-tabs .ot-metabox-panels {
+	padding: 30px !important;
+}
+
+.ot-metabox-tabs.ui-tabs .ot-metabox-nav.ui-tabs-nav {
+	padding-top: 7px !important;
+}
+
+.ot-metabox-tabs.ui-tabs .ot-metabox-nav.ui-tabs-nav li a {
+	color: #333 !important;
+	padding: 10px !important;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 11px;
+}

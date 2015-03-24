@@ -1,0 +1,213 @@
+V2.5 (22/10/2014)
+Re designed and improved the sticky navigation and back to top links
+Added to cart notification for simple products
+Redesigned the add to cart loading animation
+Added new style to add to cart buttons (Icon and text)
+Redesigned the Theme Options Panel
+Updated the language file
+Latest versions for premium plugins added
+Fixed reported bugs
+Checkout page now can have sidebar
+Out of stock products now have their own icon
+Removed the one pager plugin. Will be replaced with a brand new solution in later updates.
+Dynamic.css codes will be loaded by default upon theme activation.
+Adnaced Buttons Shortcode (comes with Altimate Addons Plugin) is now compatible with Une Boutique styles
+
+V2.4.7 (13/09/2014)
+Une Boutique is now compatible with WooCommerce 2.2.2
+Replaced products video tab with products custom tab so that you can now use it for whatever you want, the tab now features a visual editor too.
+Added latest version of Visual Composer and Master Slider
+An issue with product alternate images animation not working on FireFox is now resolved
+
+V2.4.6 (08/09/2014)
+[Fix] and issue with the visual composer images not taking links is now fixed
+[Plugin Update] Latest versions for Master Slider, Ess Grid and Rev Slider is now included
+[Content Update] Dummy data and essential imports files updated
+(Very Important - If you are using Rev Slider with versions prior to 4.2 please make sure you upgrade to the latest version)
+(Very Important - If you are planing on updating Ess Grid to the latest please make sure you make a backup of your grids by exporting them before you update the plugin)
+
+V2.4.5 (25/08/2014)
+[Fix] Fixed Corporate header style not working without WooCommerce
+[Plugin Update] Added the latest version of Visual Composer
+
+V2.4.4 (18/08/2014)
+[Fixed] An issue with links not working on mobile devices.
+
+[Improvement] Retina logos just got smarter, just upload a retina version of any image type ending in @2x. This feature now works for any image anywhere in the theme.
+
+[Plugin Update] Latest Version of Master Slider included.
+
+V2.4.3 (12/08/2014)
+Yelp icon added to Social Icons shortcodes
+Fixed the box layout
+The premium plugins are now served from a CDN, so the theme weighs only 1.6MBs now
+Latest version of Master Slider and Visual Composer added to the theme.
+
+V2.4.2 (03/08/2014)
+Added the latest version of Visual Composer plugin (4.3.1) with the following change log:
+   - UX improvements in Backend editor
+   - New: Offset option is added for columns
+   - New: Now you can add any number of columns inside row (it will be placed to the next line if there is not enough of space)
+   - New: Clone for columns
+   - New: Control your layout accross multiple devices. Now you can set different column width for mobile and desktop layouts
+   - New: Hide Columns on particular device
+   - New: Added support for mqTranslate (qTranslate fork which works with WP 3.9+)
+   - New: Row can be minimized in backend (to save space)
+   - New: Empty space content element
+   - New: Custom Heading content element
+   - New: Predefined layouts
+   - New: CSS syntax highlight added for Custom CSS option
+   - Fully reworked css for frontend and backend editor. Modular and divided across multiple less files
+   - CSS loading is moved to the wp_head();
+   - Other small fixes and improvements
+   - Obsolete vc_spanX classes removed (caused problems for some users)
+   - Fixed: "llegal offset type in ... shortcodes.php" 
+Made Une Boutique theme compatible with the latest version of VC plugin
+Fixed a small bug in the demo child theme.
+
+V2.4.1 (29/07/2014)
+Fixed some CSS bugs
+Fixed modals for child themes
+Added a demo child theme
+
+V2.4 (28/07/2014)
+(critical upgrade for better performance and smoother experience)
+Une Boutique theme is now 25% optimized in script performance
+Changed scripting logic for Menu DropDowns, Sticky Nav and Back to Top button
+Styles are now minified and optimized for speed and smoother animation
+Eliminated 2 heavy weight scripts and replaced them with CSS solutions
+Added the latest version of Rev Slider, Master Slider, Essential Grids and Ultimate Addons for Visual Composer plugins
+Updated language files
+Moved the theme demo to a much faster and powerful server so now the dummy data could be imported without issues
+Added youtube to social icons shortcode
+Fixed reported bugs
+
+V2.3 (20/06/2014)
+Added Essential Grids plugin (premium worth of $24)
+Added Social Icons shortcode
+Improved CSS codes
+
+V2.2.4 (15/06/2014)
+Included the latest version of Visual Composer
+Included the latest version of Master Slider
+CSS bug fixes
+
+V2.2.3 (12/06/2014)
+Essential update patch for Rev Slider's new slideshow button not appearing. (Recommended for users using Rev Slider 4.5) Make sure you upgrade Rev Slider to 4.5.0.1 which is included with the theme version 2.2.3
+
+V2.2.2 (09/06/2014)
+Included Latest version of Visual Composer, Rev Slider (Major update release), Master slider
+Fixed color presets
+Improved responsive menus
+Fixed some CSS bugs
+Fixed reported bugs
+
+V2.2 (06/04/2014)
+Master Slider premium slideshow plugin added to the theme worth of $25
+Transparent headers are not set by page templates and not from theme options
+Une boutique 2.2 now weighs 65% of it's previous versions
+Load time is faster
+Improved typography significantly
+All fonts now are being called from google fonts
+added Video Backgrounds in slideshows
+added Hot spots in slideshows
+added all Google fonts now available in slideshows
+New dummy data
+new slide imports for Master Slider
+New eCommerce homepage template
+more is on the way...
+
+V2.1.6 (05/25/2014)
+Row Separator Styles added
+Improved the preloaded script
+Fixed reported bugs
+
+V2.1.5 (05/19/2014)
+Fixed the anything slider navigation arrows not showing.
+New slideshow added
+Columns Match Heights added
+
+V2.1.4 (05/17/2014)
+Added transparent header styles
+Added animation effects for sticky Navs
+Fixed reported issues
+
+V2.1.3 (05/15/2014)
+Latest version of Visual Composer added
+Latest version of Ultimate Add-ons added
+Image Carousels are back again
+Headings Shortcode added
+Google Trends shortcode added
+Fixed checkbox dependencies
+You can now set the columns in a row to have matching heights
+Columns can now have background images
+Columns can now have overlays on mouse hover
+Language file updated
+Dummy content updated
+New homepage templates added
+
+V2.1.1
+Updated language file
+improved css styles for some elements
+fixed the issue with text separator module
+columns and inner columns can now have background images
+added background position to columns and inner columns
+fixed reported issues
+
+V2.1
+Fixed Mobile Redirect issue
+Fixed reported bugs and issues
+Improved mega menu
+
+V2.0
+Fixed all the issues and bugs reported by clients
+Added another premium plugin (Ultimate Addons For Visual Composer)
+Parallax Backgrounds added
+Video Backgrounds Added
+Icon Box Added
+Unlimited Icons (Import your own icon set)
+Mega Menu Added
+More Page layouts added
+Updated: New Language file
+The theme is now compatible with WordPress 3.9
+Latest Versions for Rev Slider and Visual Composer added
+Text Rotator Added
+
+V1.4.2
+Fixed woocommerce breadcrubms issue when there is only one product added
+fixed header style V3 issue for mobile devices
+fixed left sidebar page template issue
+fixed sidebar search forms on some page templates
+fixed text domain on mini cart file when cart is empty
+revised 404 page tempalte
+new language file
+
+V1.4.1
+Fixed main navigation naming classes
+Upgraded the rest of woocommerce template files to the latest version
+
+V1.4.0
+UneBoutique is now compatible with WooCommerce 2.1+
+
+V1.3.6.1
+Fixed Missing codes in the footer when boxed layout is selected
+V1.3.6
+Drop-down cart widget is now hidden when shop is set to catalog mode
+
+V1.3.5
+added a new header layout
+upgraded evnato wordpress toolkit plugin, it is now installed directly from github to stay updated automatically
+added new settings to customize main navigation typography
+wishlist table is now responsive and mobile optimized
+
+V1.3.0
+Upgraded Theme Options Framework to it's latest version
+Added new feature: fixed background images for full width rows
+new home page template added
+new dummy-content.xml
+
+V1.2.3 Fixed product and forum search form styles for dropdown search widget position
+V1.2.2 Minor CSS changes, improved google analytics code in the footer
+V1.2.1 Minor CSS changes, improved responsive menu on mobile devices
+V1.1.5 Minor CSS changes, removed some redundant codes from the footer
+V1.1 woocommerce catalog mode added to theme options

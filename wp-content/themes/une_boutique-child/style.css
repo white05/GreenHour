@@ -1,0 +1,75 @@
+/*
+ Theme Name:   Une Boutique Child Demo
+ Theme URI:    http://capital-themes.net/
+ Description:  Twenty Fourteen Child Theme
+ Author:       John Doe
+ Author URI:   http://capital-themes.net
+ Template:     une_boutique
+ Version:      1.0.0
+ Tags:         woocommerce, ecommerce, corporate, one page, landing page, multi-purpose
+ Text Domain:  une_boutique
+*/
+
+@import url("../une_boutique/style.css");
+
+.transparent-header #site-branding {
+    /* background: rgba(255,255,255,0.85);*/
+}
+
+#site-branding {
+    /*background: rgba(255,255,255,0.85);
+    border: 0 none !important;
+    position: absolute;
+    z-index: 1001;
+    width: 100%;
+    left: 0;    */
+}
+
+.column_midle {
+    height:100vh;
+    vertical-align:middle;
+    float:none;
+    display: table-cell;
+}
+
+.page_column {
+    height: 100vh;
+    width: 100vw !important;
+    vertical-align:middle;
+    float:none !important;
+    display: table-cell;
+}
+.page_column_midle {
+    height: 50vh;
+    width: 100vw !important;
+    vertical-align:middle;
+    float:none !important;
+    display: table-cell;
+}
+.row_center {
+    text-align:center;
+}
+
+#colophon {
+    background-color: #422600;
+}
+#site-navigation ul.main-menu li.current_page_item {
+    border-bottom: 3px solid #FFEC87;
+}
+.corporate-header-style .top-bar-section li.current_page_item a:not(.button) {
+    line-height: 87px;
+     font-size: 14px;
+}
+
+.corporate-header-style #site-branding.stickUp.isStuck .top-bar-section li.current_page_item a:not(.button) {
+    line-height: 67px;
+    font-size: 14px;
+}
+
+.corporate-header-style .top-bar-section li:last-child a {
+    padding-right:10px;
+}
+
+.corporate-header-style .woo-mini-cart-container {
+	margin-top: 0px;
+}

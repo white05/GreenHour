@@ -1,0 +1,103 @@
+button,
+.button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: #4695D7;
+	border: 1px solid #4695D7;
+	border-radius: 3px;
+	letter-spacing: normal;
+	box-shadow: 0 -3px rgba(0, 0, 0, 0.15) inset, 0 -4px rgba(255, 255, 255, 0.1) inset;
+	white-space: nowrap;
+}
+
+button:hover,
+.button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background: #649FFF;
+	border: 1px solid #649FFF;
+}
+
+button.secondary, 
+.button.secondary, 
+.wpb_button, 
+input[type="submit"].secondary,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist {
+	background: #F1F1F1;
+	border: 1px solid #D8D8D8;
+	border-radius: 3px;
+	letter-spacing: normal;
+	box-shadow: 0 -3px rgba(0, 0, 0, 0.15) inset, 0 -4px rgba(255, 255, 255, 0.1) inset;
+	white-space: nowrap;
+}
+
+button.secondary:hover, 
+.button.secondary:hover, 
+.wpb_button:hover, 
+input[type="submit"].secondary:hover,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover {
+	background: #E6E6E6;
+}
+
+button:focus,
+.button:focus,
+html input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button.secondary:focus, 
+.button.secondary:focus, 
+.wpb_button:focus, 
+input[type="submit"].secondary:focus,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:focus,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:focus,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:focus,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:focus,
+.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button:focus,
+button:active,
+.button:active,
+html input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active,
+button.secondary:active, 
+.button.secondary:active, 
+.wpb_button:active, 
+input[type="submit"].secondary:active,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:active,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:active,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:active,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:active,
+.woocommerce .page-options-container .widgets-container .widget_price_filter .price_slider_amount .button:active {
+	box-shadow: 0 0px rgba(0, 0, 0, 0.15) inset, 0 0px rgba(255, 255, 255, 0.1) inset;
+}
+
+.woocommerce .quantity .plus,
+.woocommerce-page .quantity .plus,
+.woocommerce #content .quantity .plus,
+.woocommerce-page #content .quantity .plus,
+.woocommerce .quantity .minus,
+.woocommerce-page .quantity .minus,
+.woocommerce #content .quantity .minus,
+.woocommerce-page #content .quantity .minus,
+.woocommerce ul.products li.product a.button.add_to_wishlist,
+.woocommerce-page ul.products li.product a.button.add_to_wishlist,
+.woocommerce ul.products li.product .product_button a.button,
+.woocommerce-page ul.products li.product .product_button a.button {
+	box-shadow: none;
+}
+
+.woocommerce .cart-collaterals .shipping_calculator h2 a,
+.woocommerce-page .cart-collaterals .shipping_calculator h2 a {
+	border-radius: 3px;
+}
+
+.or {
+	top: 48%;
+}

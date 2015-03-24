@@ -1,0 +1,46 @@
+button,
+.button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: #745F7E;
+	border: 1px solid #745F7E;
+	color: #fefefe;
+	border-radius: 3px;
+	letter-spacing: normal;
+}
+
+button:hover,
+.button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	background: #8F7A99;
+	border: 1px solid #8F7A99;
+	color: #fefefe;
+}
+
+button.secondary, 
+.button.secondary, 
+.wpb_button, 
+input[type="submit"].secondary,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist {
+	background: #F1F1F1;
+	border: 1px solid #D8D8D8;
+	border-radius: 3px;
+	letter-spacing: normal;
+}
+
+button.secondary:hover, 
+.button.secondary:hover, 
+.wpb_button:hover, 
+input[type="submit"].secondary:hover,
+.woocommerce div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover,
+.woocommerce-page #content div.product div.summary .button-group .wish-list-button .add_to_wishlist:hover {
+	background: #E6E6E6;
+}
