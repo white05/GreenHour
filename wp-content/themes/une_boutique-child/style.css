@@ -25,7 +25,7 @@
     left: 0;    */
 }
 
-.column_midle {
+.column_middle {
     height:100vh;
     vertical-align:middle;
     float:none;
@@ -39,13 +39,31 @@
     float:none !important;
     display: table-cell;
 }
-.page_column_midle {
+.page_column_middle {
     height: 50vh;
     width: 100vw !important;
     vertical-align:middle;
-    float:none !important;
     display: table-cell;
+	float:none !important;
 }
+
+.page_column_title {
+	height:350px;
+}
+
+.page_title {
+	padding-top: 50px;
+}
+
+.page_row {
+  margin-bottom: 0px !important;
+  min-height: 100vh;
+}
+
+.background_w {
+	background: rgba(255,255,255,.5);
+}
+
 .row_center {
     text-align:center;
 }
@@ -202,8 +220,8 @@
 	position: absolute;
 }
 
-.page_row {
-    min-height: 100vh;
+.custom-single .wpb_content_element.wpb_single_image img {
+	margin-bottom:0px;
 }
 
 /* MENU */
@@ -222,6 +240,7 @@ body .menu .wpb_content_element .wpb_tabs_nav li {
     float: none;
     display: inline-block;
 	margin:5px;
+	width:100px;
 }
 
 .menu .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tabs_nav a {
@@ -268,4 +287,15 @@ body .menu .wpb_content_element .wpb_tabs_nav li {
 		display: inline-block;
 		text-align: center;
 	}
+}
+
+/* ACCORDING*/
+
+body .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header, body .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {
+	background-color: transparent;
+	border: 2px solid #d8d8d8;
+}
+body .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active {
+	background-color: #ffffff;
+	border: 2px solid #d8d8d8;
 }
