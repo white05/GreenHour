@@ -582,14 +582,14 @@ if ( is_admin() && isset( $_GET['activated'] ) && $pagenow == 'themes.php' ) add
  */
 function une_boutique_woocommerce_image_dimensions() {
 	$catalog = array(
-		'width' 	=> '280',	// px
-		'height'	=> '334',	// px
+		'width' 	=> '350',	// px
+		'height'	=> '350',	// px
 		'crop'		=> 1 		// true
 	);
  
 	$single = array(
 		'width' 	=> '600',	// px
-		'height'	=> '400',	// px
+		'height'	=> '600',	// px
 		'crop'		=> 1 		// true
 	);
  
@@ -921,3 +921,12 @@ if(function_exists( 'ub_ess_custom_function_name' )){
 		set_ess_grid_as_theme();
 	}
 }
+
+
+//---------------------------------------------------------
+
+//remove_action('woocommerce_pagination', 'woocommerce_pagination', 10);
+//function woocommerce_pagination() {
+//    wp_pagenavi();      
+//}
+//add_action( 'woocommerce_pagination', 'woocommerce_pagination', 10);
